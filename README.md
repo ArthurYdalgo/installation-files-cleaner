@@ -16,7 +16,7 @@ A smart, interactive CLI tool built in Python to safely scan your workspaces, ca
 Open your terminal and clone this repository to a secure location on your machine (e.g., your home folder):
 
 ```bash
-git clone [https://github.com/arthurydalgo/installation-files-cleaner.git](https://github.com/arthurydalgo/installation-files-cleaner.git) ~/deps-purger
+git clone https://github.com/arthurydalgo/installation-files-cleaner.git ~/deps-purger
 cd ~/deps-purger
 ```
 
